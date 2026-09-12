@@ -51,7 +51,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0d0019?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:zainileon@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/zainileon.dev-0d0019?style=for-the-badge&logo=firefoxbrowser&logoColor=9d4edd)](https://zainileon.dev)
+[![Portfolio](https://img.shields.io/badge/zainileon.dev-0d0019?style=for-the-badge&logo=firefoxbrowser&logoColor=9d4edd)]([https://zainileon.dev](https://github.com/zeen-lien))
 
 </div>
 
