@@ -1,96 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Zaini%20Leon&fontSize=68&fontColor=ffffff&fontAlignY=50&fontAlign=35&desc=Full%20Stack%20Developer%20%E2%80%94%20Indonesia&descSize=16&descAlignY=70&descAlign=35&animation=fadeIn&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0019,70:1a0035,100:000000&height=240&section=header&text=Zaini%20Leon&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Indonesia&descSize=17&descAlignY=62&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=18&duration=2800&pause=1000&color=9D4EDD&center=true&vCenter=true&width=560&lines=Building+things+people+actually+use.;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+React+Native;Always+learning.+Always+shipping." alt="typing"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=20&duration=2500&pause=800&color=a78bfa&center=true&vCenter=true&width=620&lines=Building+products+people+actually+use.;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+React+Native;Always+learning.+Always+shipping." alt="typing"/>
-
 <br/>
 
-[![views](https://komarev.com/ghpvc/?username=zeen-lien&label=views&color=7c3aed&style=flat-square)](https://github.com/zeen-lien)
+<div align="center">
+
+[![views](https://komarev.com/ghpvc/?username=zeen-lien&label=views&color=7b2d8b&style=flat-square&abbreviated=true)](https://github.com/zeen-lien)&nbsp;
+[![followers](https://img.shields.io/github/followers/zeen-lien?label=followers&style=flat-square&color=7b2d8b&labelColor=0d0019)](https://github.com/zeen-lien?tab=followers)&nbsp;
+![available](https://img.shields.io/badge/available%20for%20work-0d0019?style=flat-square&labelColor=7b2d8b&color=0d0019)
+
+</div>
+
+---
+
+## About
+
+> Full Stack Developer based in Indonesia. I build scalable web and mobile apps — from pixel-perfect UI to production-ready APIs. Currently deep into system design, DevOps, and Web3.
+
+| | |
+|---|---|
+| **Stack** | Next.js · TypeScript · Node.js · React Native |
+| **Database** | PostgreSQL · MongoDB · Supabase · Firebase |
+| **Tools** | Git · Docker · Vercel · Figma · VS Code |
+| **Exploring** | System Design · DevOps · Web3 |
+| **Status** | Open to collab & remote work |
+
+---
+
+## Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,react&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,vercel,docker&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark&perline=7" />
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zeen-lien&hide_border=true&background=0d0019&ring=9d4edd&fire=c77dff&currStreakLabel=c77dff&sideLabels=6b7280&dates=374151&currStreakNum=ffffff&sideNums=e2e8f0&border_radius=8" height="165" alt="streak"/>
 &nbsp;
-[![followers](https://img.shields.io/github/followers/zeen-lien?label=followers&style=flat-square&color=7c3aed&labelColor=13111c)](https://github.com/zeen-lien?tab=followers)
-&nbsp;
-![status](https://img.shields.io/badge/open%20to%20work-7c3aed?style=flat-square&labelColor=13111c&label=status)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeen-lien&layout=compact&hide_border=true&bg_color=0d0019&title_color=9d4edd&text_color=e2e8f0&border_radius=8&langs_count=6" height="165" alt="langs"/>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## Contributions
 
 <div align="center">
-
-[![Profile Widget](https://github-widgetbox.vercel.app/api/profile?username=zeen-lien&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/zeen-lien)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### Skills
-
-[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css&includeNames=true&theme=darkmode)](https://github.com/zeen-lien)
-
-[![Frameworks](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,tailwind,express,flutter&includeNames=true&theme=darkmode)](https://github.com/zeen-lien)
-
-[![Tools](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,firebase,mongodb,vercel,nodejs&includeNames=true&theme=darkmode)](https://github.com/zeen-lien)
-
-[![Software](https://github-widgetbox.vercel.app/api/skills?software=vscode,linux&includeNames=true&theme=darkmode)](https://github.com/zeen-lien)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### Stats
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=zeen-lien&hide_border=true&background=13111c&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=6b7280&dates=374151&currStreakNum=ffffff&sideNums=e2e8f0&border_radius=10" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeen-lien&layout=compact&hide_border=true&bg_color=13111c&title_color=a78bfa&text_color=e2e8f0&border_radius=10&langs_count=6" height="165"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeen-lien&theme=tokyo-night&hide_border=true&bg_color=13111c&color=a78bfa&line=7c3aed&point=e2e8f0&area=true&area_color=2e1065&radius=6" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeen-lien/zeen-lien/output/github-contribution-grid-snake-dark.svg"/>
@@ -100,30 +69,24 @@
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## Connect
 
 <div align="center">
 
-### Let's Connect
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-13111c?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/zeen-lien)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/zeen-lien)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-13111c?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://instagram.com/zeen.lien)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0019?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://instagram.com/zeen.lien)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-13111c?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:zainileon@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0019?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:zainileon@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-13111c?style=for-the-badge&logo=firefoxbrowser&logoColor=a78bfa)](https://zainileon.dev)
+[![Portfolio](https://img.shields.io/badge/zainileon.dev-0d0019?style=for-the-badge&logo=firefoxbrowser&logoColor=9d4edd)](https://zainileon.dev)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&reversal=true&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0035,100:000000&height=110&section=footer&animation=fadeIn" width="100%"/>
 </div>
