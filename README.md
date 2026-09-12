@@ -47,11 +47,11 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-0d0019?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://instagram.com/zeen.lien)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0019?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://www.instagram.com/zienlien_)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d0019?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:zainileon@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0019?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:zeenlien12@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/zainileon.dev-0d0019?style=for-the-badge&logo=firefoxbrowser&logoColor=9d4edd)]([https://zainileon.dev](https://github.com/zeen-lien))
+[![GitHub](https://img.shields.io/badge/GitHub-0d0019?style=for-the-badge&logo=github&logoColor=9d4edd)](https://github.com/zeen-lien)
 
 </div>
 
