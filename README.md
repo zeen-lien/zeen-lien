@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![views](https://komarev.com/ghpvc/?username=zeen-lien&label=views&color=7b2d8b&style=flat-square&abbreviated=true)](https://github.com/zeen-lien)&nbsp;
+[![views](https://komarev.com/ghpvc/?username=z e e n - l i e n &label=views&color=7b2d8b&style=flat-square&abbreviated=true)](https://github.com/zeen-lien)&nbsp;
 [![followers](https://img.shields.io/github/followers/zeen-lien?label=followers&style=flat-square&color=7b2d8b&labelColor=0d0019)](https://github.com/zeen-lien?tab=followers)&nbsp;
 ![available](https://img.shields.io/badge/available%20for%20work-0d0019?style=flat-square&labelColor=7b2d8b&color=0d0019)
 
