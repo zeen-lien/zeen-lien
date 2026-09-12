@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0019,70:1a0035,100:000000&height=240&section=header&text=ZEEN%20-%20LIEN&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Indonesia&descSize=17&descAlignY=62&animation=fadeIn&fontFamily=Cinzel" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0019,70:1a0035,100:000000&height=240&section=header&text=Z E E N %20-%20 L I E N &fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Indonesia&descSize=17&descAlignY=62&animation=fadeIn&fontFamily=Cinzel" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=18&duration=2800&pause=1000&color=9D4EDD&center=true&vCenter=true&width=560&lines=Building+things+people+actually+use.;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+React+Native;Always+learning.+Always+shipping." alt="typing"/>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![views](https://komarev.com/ghpvc/?username=z e e n - l i e n &label=views&color=7b2d8b&style=flat-square&abbreviated=true)](https://github.com/zeen-lien)&nbsp;
+[![views](https://komarev.com/ghpvc/?username=zeen-lien&label=views&color=7b2d8b&style=flat-square&abbreviated=true)](https://github.com/zeen-lien)&nbsp;
 [![followers](https://img.shields.io/github/followers/zeen-lien?label=followers&style=flat-square&color=7b2d8b&labelColor=0d0019)](https://github.com/zeen-lien?tab=followers)&nbsp;
 ![available](https://img.shields.io/badge/available%20for%20work-0d0019?style=flat-square&labelColor=7b2d8b&color=0d0019)
 
