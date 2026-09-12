@@ -16,22 +16,6 @@
 
 </div>
 
----
-
-## About
-
-> Full Stack Developer based in Indonesia. I build scalable web and mobile apps — from pixel-perfect UI to production-ready APIs. Currently deep into system design, DevOps, and Web3.
-
-| | |
-|---|---|
-| **Stack** | Next.js · TypeScript · Node.js · React Native |
-| **Database** | PostgreSQL · MongoDB · Supabase · Firebase |
-| **Tools** | Git · Docker · Vercel · Figma · VS Code |
-| **Exploring** | System Design · DevOps · Web3 |
-| **Status** | Open to collab & remote work |
-
----
-
 ## Skills
 
 <div align="center">
@@ -43,19 +27,7 @@
 
 </div>
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=zeen-lien&hide_border=true&background=0d0019&ring=9d4edd&fire=c77dff&currStreakLabel=c77dff&sideLabels=6b7280&dates=374151&currStreakNum=ffffff&sideNums=e2e8f0&border_radius=8" height="165" alt="streak"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeen-lien&layout=compact&hide_border=true&bg_color=0d0019&title_color=9d4edd&text_color=e2e8f0&border_radius=8&langs_count=6" height="165" alt="langs"/>
-
-</div>
-
----
 
 ## Contributions
 
@@ -75,8 +47,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/zeen-lien)
-&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-0d0019?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://instagram.com/zeen.lien)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0d0019?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:zainileon@gmail.com)
