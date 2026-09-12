@@ -1,200 +1,161 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HEADER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Zaini%20Leon&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:1a0040,100:0d0d0d&height=160&section=header&text=ZAINI%20LEON&fontSize=60&fontColor=d8b4fe&fontAlignY=55&animation=fadeIn" width="100%"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=2800&pause=900&color=9D71EA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+React+Native;Building+products+people+actually+use.;Indonesia+%E2%80%94+open+to+remote+work+%26+collab." alt="typing"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Building+products+people+actually+use.;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Always+learning.+Always+shipping." alt="typing" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zeen-lien&label=profile+views&color=7c3aed&style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/zeen-lien?label=followers&style=flat-square&color=7c3aed&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/badge/open%20to%20work-available-7c3aed?style=flat-square&labelColor=0d0d0d"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=zeen-lien&style=for-the-badge&color=7c3aed&label=VIEWS)](https://github.com/zeen-lien)
+[![Followers](https://img.shields.io/github/followers/zeen-lien?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/zeen-lien?tab=followers)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+<br/>
 
-### `> whoami`
+<div align="center">
+
+### Who am I
+
+</div>
+
+<div align="center">
 
 ```
-  Name    Zaini Leon
-  Role    Full Stack Developer
-  Base    Indonesia
-  Stack   Next.js / TypeScript / Node.js
-  Mobile  React Native
-  Status  open to collab & remote work
+  Zaini Leon  ·  Full Stack Developer  ·  Indonesia
+  ─────────────────────────────────────────────────────
+  Next.js  ·  TypeScript  ·  Node.js  ·  React Native
+
+  Building scalable web and mobile apps.
+  From pixel-perfect UI to production-ready APIs.
+
+  Currently exploring  →  System Design · DevOps · Web3
+  Status               →  Open to collab & remote work
 ```
 
-I build scalable, user-focused web and mobile applications —
-from pixel-perfect UI to production-ready APIs.
-
-**Currently exploring →** System Design · DevOps · Web3
-
-</td>
-<td width="42%" valign="top" align="center">
-
-### `> top-langs`
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeen-lien&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=9d71ea&text_color=c4b5fd&border_radius=8&langs_count=6&card_width=280" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
+
+<br/>
 
 <div align="center">
 
-### `> git stats`
+### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeen-lien&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d71ea&icon_color=7c3aed&text_color=c4b5fd&ring_color=6d28d9&border_radius=8&include_all_commits=true&custom_title=GitHub+Stats" height="160"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=zeen-lien&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a78bfa&currStreakLabel=9d71ea&sideLabels=6b7280&dates=4b5563&currStreakNum=d8b4fe&sideNums=c4b5fd&border_radius=8&stroke=0d0d0d" height="160"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zeen-lien&show_icons=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0&ring_color=7c3aed&border_radius=12&include_all_commits=true&card_width=400" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeen-lien&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c084fc&text_color=e2e8f0&border_radius=12&langs_count=6&card_width=300" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=zeen-lien&hide_border=true&background=1a1a2e&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=94a3b8&dates=475569&currStreakNum=ffffff&sideNums=e2e8f0&border_radius=12&card_width=500" height="160"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
+
+<br/>
 
 <div align="center">
 
-### `> tech --list`
+### Stack
 
-<table>
-<tr><td align="center"><b>Frontend</b></td><td>
+<br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=fff)
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3b82f6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=f59e0b)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=f97316)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=818cf8)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3b82f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=f59e0b)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4)
 
-</td></tr>
-<tr><td align="center"><b>Backend</b></td><td>
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=4ade80)
+![Express](https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=facc15)
+![React Native](https://img.shields.io/badge/React_Native-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)
 
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=4ade80)
-![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=facc15)
-![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=4ade80)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=f59e0b)
+![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=38bdf8)
 
-</td></tr>
-<tr><td align="center"><b>Database</b></td><td>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=60a5fa)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=4ade80)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=3ecf8e)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=f59e0b)
-
-</td></tr>
-<tr><td align="center"><b>DevOps</b></td><td>
-
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=38bdf8)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=f97316)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=facc15)
-
-</td></tr>
-<tr><td align="center"><b>Tools</b></td><td>
-
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=3b82f6)
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=f87171)
-![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=f97316)
-
-</td></tr>
-</table>
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=f97316)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=3b82f6)
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=f87171)
+![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=for-the-badge&logo=postman&logoColor=f97316)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=facc15)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION GRAPH                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
+
+<br/>
 
 <div align="center">
 
-### `> git log --graph`
+### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeen-lien&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=9d71ea&line=6d28d9&point=d8b4fe&area=true&area_color=1e1050&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeen-lien&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=c084fc&line=7c3aed&point=e2e8f0&area=true&area_color=3b0764&radius=6" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        SNAKE                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
+
+<br/>
 
 <div align="center">
 
-### `> watch contributions`
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeen-lien/zeen-lien/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeen-lien/zeen-lien/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/zeen-lien/zeen-lien/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/zeen-lien/zeen-lien/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        CONTACT                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
+
+<br/>
 
 <div align="center">
 
-### `> contact`
+### Connect
 
-<a href="https://linkedin.com/in/zeen-lien">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=0a66c2&labelColor=0d0d0d"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/zeen.lien">
-  <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=flat-square&logo=instagram&logoColor=e4405f&labelColor=0d0d0d"/>
-</a>
-&nbsp;
-<a href="mailto:zainileon@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d0d0d"/>
-</a>
-&nbsp;
-<a href="https://zainileon.dev">
-  <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=flat-square&logo=firefoxbrowser&logoColor=9d71ea&labelColor=0d0d0d"/>
-</a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/zeen-lien)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=e4405f)](https://instagram.com/zeen.lien)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:zainileon@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefoxbrowser&logoColor=c084fc)](https://zainileon.dev)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a0040,100:0d0d0d&height=100&section=footer&animation=fadeIn" width="100%"/>
-<sub>Zaini Leon &nbsp;&middot;&nbsp; Indonesia &nbsp;&middot;&nbsp; <a href="https://zainileon.dev">zainileon.dev</a></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
